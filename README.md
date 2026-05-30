@@ -1,23 +1,114 @@
+<table>
+<tr>
+<td width="120">
+
+<img src="src/MongoDB_Logomark_ForestGreen.png" alt="MongoDB Logo" width="120" width="80">
+
+</td>
+
+<td>
+
 # MongoDB — The Complete Developer's Guide
 
-> Comprehensive study notes, diagrams, and hands-on examples from completing **MongoDB - The Complete Developer's Guide** by Academind (Maximilian Schwarzmüller) on Udemy.
+Comprehensive study notes, diagrams, architecture visualizations, and hands-on examples documenting my MongoDB learning journey.
 
-[![Course](https://img.shields.io/badge/Course-Udemy-green)](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
-[![Duration](https://img.shields.io/badge/Duration-17.5%20hours-blue)]()
-[![Completed](https://img.shields.io/badge/Completed-May%2030%2C%202026-brightgreen)]()
+![Course](https://img.shields.io/badge/Course-Udemy-green)
+![Duration](https://img.shields.io/badge/Duration-17.5%20Hours-blue)
+![Completed](https://img.shields.io/badge/Completed-May%202026-brightgreen)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## About This Repository
+<!-- <p align="center">
 
-This repo is a **personal knowledge base and portfolio showcase** for MongoDB. It consolidates:
+  <img src="https://www.clipartmax.com/png/middle/114-1147615_mongodb-leaf-open-source-nosql-database-startups-mongodb-logo.png" alt="MongoDB Logo" width="120">
+
+</p>
+<h1 align="center">MongoDB — The Complete Developer's Guide</h1>
+
+<p align="center">
+
+  Comprehensive study notes, diagrams, architecture visualizations, and hands-on examples documenting my MongoDB learning journey.
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Course-Udemy-green" />
+
+  <img src="https://img.shields.io/badge/Duration-17.5%20Hours-blue" />
+
+  <img src="https://img.shields.io/badge/Completed-May%202026-brightgreen" />
+
+</p>
+
+<hr> -->
+
+
+---
+
+## 🚀 About This Repository
+
+<table>
+
+<tr>
+
+<td width="55%">
+
+This repository is my **personal MongoDB knowledge base and portfolio project**.
+
+It consolidates everything I learned into structured notes, practical examples, diagrams, and reference material.
+
+### ✅ Included
 
 - Course slides and lecture summaries
-- Hands-on `mongosh` practice notes
-- Visual mind maps and architecture diagrams
-- Copy-paste-ready code snippets for every major topic
 
-All source materials live in [`src/`](src/).
+- Hands-on `mongosh` practice notes
+
+- Visual architecture diagrams
+
+- CRUD operations & query examples
+
+- Aggregation framework examples
+
+- Geospatial queries
+
+- Indexing & performance concepts
+
+- MongoDB Atlas deployment notes
+
+- Node.js integration examples
+
+</td>
+
+<td width="45%">
+
+<p align="center">
+
+  <img src="src/image.png" width="100%">
+
+</p>
+
+### Powering Modern Applications
+
+✅ Flexible Schema
+
+✅ High Performance
+
+✅ Horizontally Scalable
+
+✅ Developer Friendly
+
+</td>
+
+</tr>
+
+</table>
+
+📂 All source materials live in [`src/`](src/).
 
 ### What You'll Learn (Course Outcomes)
 
